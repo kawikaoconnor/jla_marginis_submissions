@@ -18,7 +18,7 @@ converges to 0.
 
 We first prove that if c ∈ [0,1), the sequence given by c^k converges to
 zero.
-/
+-/
 
 
 /-
